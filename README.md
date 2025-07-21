@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shubham Singh</h1>
+<h3 align="center">A passionate full stack web developer from India</h3>
 
-<!--
-**webshubham51/webshubham51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Fixbuddys Service App**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **MERN Stack, DSA and System Design**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [Portfolio (Coming Soon)](https://webshubham51.github.io)
+
+- 📫 How to reach me: **webshubham51@gmail.com**
+
+- ⚡ Fun fact: I love solving real-world problems with code
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=webshubham51&show_icons=true&locale=en" alt="webshubham51" />
+</p>
+
+---
+
+### 🧠 Currently Learning:
+- React, MongoDB, Express.js, Node.js  
+- Building Real Projects  
+- Resume & Interview Prep  
