@@ -49,11 +49,3 @@
 - Resume, interview prep, and job-ready skills
 
 ---
-
-### 🧩 Fun Tools You Can Add Later (Optional):
-- Profile visitor badge  
-  `![visitors](https://visitor-badge.glitch.me/badge?page_id=webshubham51&left_color=green&right_color=red)`
-
-- Contribution graph snake:  
-  ```md
-  ![snake gif](https://github.com/webshubham51/webshubham51/blob/output/github-contribution-grid-snake.svg)
