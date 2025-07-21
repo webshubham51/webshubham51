@@ -1,39 +1,59 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">🚀 MERN Stack Developer | 💻 Open Source Enthusiast | 📍 India</h3>
 
-- 🔭 I’m currently working on **Fixbuddys Service App**
-
-- 🌱 I’m currently learning **MERN Stack, DSA and System Design**
-
-- 👨‍💻 All of my projects are available at [Portfolio (Coming Soon)](https://webshubham51.github.io)
-
-- 📫 How to reach me: **webshubham51@gmail.com**
-
-- ⚡ Fun fact: I love solving real-world problems with code
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&width=435&lines=Frontend+%F0%9F%96%A5%EF%B8%8F+%7C+Backend+%F0%9F%9B%A0%EF%B8%8F+%7C+Fullstack+Engineer;Building+real-world+solutions;Learning+daily+%F0%9F%93%9A;Leveling+up+1%25+everyday+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 👨‍💻 About Me:
+- 🔭 Currently building: **Fixbuddys - A fullstack booking/payment app**
+- 🧠 Learning: **MERN Stack, DSA, and System Design**
+- 🌱 Exploring: Freelancing, Personal Branding & Resume Projects
+- ⚡ Fun Fact: I write code like poetry (kabhi kabhi 😅)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-</p>
+---
+
+### 🛠️ Tech Stack:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+</div>
 
 ---
 
 ### 📊 GitHub Stats:
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=webshubham51&show_icons=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webshubham51&theme=tokyonight" height="170px"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webshubham51&layout=compact&theme=tokyonight" height="140px"/>
+</div>
+
+---
+
+### 📫 Let’s Connect:
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=webshubham51&show_icons=true&locale=en" alt="webshubham51" />
+  <a href="mailto:webshubham51@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/webshubham51"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/webshubham51"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧠 Currently Learning:
-- React, MongoDB, Express.js, Node.js  
-- Building Real Projects  
-- Resume & Interview Prep  
+### 🧠 Currently Focused On:
+- Building strong GitHub profile (🔥 daily commits)
+- Creating 3-5 portfolio level projects
+- Resume, interview prep, and job-ready skills
+
+---
+
+### 🧩 Fun Tools You Can Add Later (Optional):
+- Profile visitor badge  
+  `![visitors](https://visitor-badge.glitch.me/badge?page_id=webshubham51&left_color=green&right_color=red)`
+
+- Contribution graph snake:  
+  ```md
+  ![snake gif](https://github.com/webshubham51/webshubham51/blob/output/github-contribution-grid-snake.svg)
